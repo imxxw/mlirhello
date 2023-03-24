@@ -1,0 +1,2 @@
+由于https://github.com/llvm/llvm-project.git太过巨大，初次clone可能花很长时间。
+如果本机上已经有llvm-project， 可以在此建立一个软连接到已有的llvm-project
